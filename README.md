@@ -1,26 +1,17 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ibrahim%20Manafov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">🚀 Fullstack Developer | Building Scalable & Modern Web Apps</h3>
-
-<p align="center">
-  <a href="https://github.com/ibrahimmanafov">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimmanafov&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:0f2027&height=220&section=header&text=Ibrahim%20Manafov&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Building%20Real%20Products&descAlignY=70" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 💻 I build **fullstack web applications**
-* 🔐 Currently diving into **CyberSecurity & Backend Systems**
-* ⚡ Focused on **performance, clean architecture & UI/UX**
-* 🧩 Love solving **real-world problems with code**
-* 🤝 Open for **collabs & startup ideas**
+* 💻 Fullstack Developer focused on **real-world applications**
+* 🔐 Learning **CyberSecurity & Backend Architecture**
+* ⚡ Obsessed with **clean UI, performance & scalable systems**
+* 🧠 I don’t just code — I **build products**
 
 ---
 
@@ -43,6 +34,34 @@
 
 ---
 
+## 🚗 Featured Projects
+
+### 🔹 Rental — Rent A Car Platform
+
+> Fullstack car rental system inspired by modern platforms
+
+✔️ Car listing with filters & categories
+✔️ Booking system UI
+✔️ Modern responsive design
+✔️ Clean component structure
+
+🛠 Tech: React, Node.js, MongoDB
+
+---
+
+### 🥗 YourCoach — Fitness Meal Platform
+
+> Healthy lifestyle & meal planning web app
+
+✔️ Meal plans & nutrition UI
+✔️ Clean UX for users
+✔️ Scalable frontend structure
+✔️ Modern design system
+
+🛠 Tech: React, Firebase
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -56,26 +75,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Turo Clone (Rent a Car Platform)**
-→ Fullstack platform with modern UI, booking system & filters
-
-🔹 **AlgoAcademy Platform**
-→ Educational system for developers
-
-🔹 **Portfolio Website**
-→ Personal brand & project showcase
-
----
-
 ## 💡 Developer Mindset
 
-> “Code is not just working — it should be clean, scalable, and meaningful.”
+> “I build products that people can actually use — not just code that runs.”
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 [rootibo@icloud.com](mailto:rootibo@icloud.com)
 
@@ -84,5 +90,5 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243b55,100:141e30&height=120&section=footer"/>
 </p>
