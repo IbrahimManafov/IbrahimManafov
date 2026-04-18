@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ibrahimmanafov"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ibrahim-manafov-4baa62394/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/ibrahimmanafov"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://instagram.com/ibrahimm.20"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://youtube.com/c/rootibo"><img src="https://skillicons.dev/icons?i=youtube" /></a>
